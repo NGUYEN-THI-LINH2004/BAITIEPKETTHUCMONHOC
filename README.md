@@ -20,4 +20,4 @@ BÀITAPKETTHUCMONHOC
 + Gắn sự kiện nút “Tính” vào calculate().
 + Test với bộ đầu vào chuẩn và sai.
 
-Link Youtube: https://youtu.be/bGFgrvFxpG4
+Link Youtube: https://youtu.be/eRY_TPyMklU
